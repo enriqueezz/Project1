@@ -98,8 +98,7 @@ By making a yml playbook and adding the commands to install dockers.
         name: docker
         enabled: yes
 
-
-
+- then running a ping to verify its working
 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.

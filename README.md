@@ -69,9 +69,9 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box |     No              |   24.4.247.57           |
-| Elkvm    |     no              | 20.98.77.39, 24.4.247.57 |
-|          |                     |                      |
+| Jump Box |     No              |   xx.x.xxx.xx          |
+| Elkvm    |     no              | 20.98.77.39, xx.x.xxx.xx |
+| Web169 and Web269 |  no        |     20.98.77.39                 |
 
  Elk Configuration
 
